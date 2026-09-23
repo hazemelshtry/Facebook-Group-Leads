@@ -186,9 +186,7 @@ When reporting an issue, include the browser version, the action taken, expected
 
 Useful improvements include explicit database readiness, a full stop/cleanup control, group-scoped records, safe CSV text handling, clearer reset/cancel behavior, and structured error reporting. These are proposals, not features of this version.
 
-## License
 
-No license has been selected or included with the supplied source. Public availability is not a substitute for an explicit software license. The author should add the license they intend to grant before advertising reuse permissions. This documentation does not invent an MIT license or impose a new one on the author.
 
 ## Disclaimer
 
